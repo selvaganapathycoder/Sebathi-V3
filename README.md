@@ -1,34 +1,92 @@
-# Sebathi - AI SaaS Platform
 
-**Sebathi** is a Modern UI/UX website, developed using Next.js, React, and Tailwind CSS. It is designed to specific high standards for AI SaaS platforms.
+🧠 Sebathi V3 — AI SaaS Platform
 
-## ✨ Technologies Used
+🌐 Live Demo: https://sebathi-v3.vercel.app
+ 
+GitHub
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [Next.js](https://nextjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [React Just Parallax](https://www.npmjs.com/package/react-just-parallax)
+Sebathi V3 is a modern, responsive UI/UX website built for showcasing an AI SaaS platform. It’s developed using Next.js, React, and Tailwind CSS with TypeScript — designed to be scalable, performant, and production-ready. 
+GitHub
 
-## 🧰 Setup
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1. Make sure [Git](https://git-scm.com/downloads) and [Node.js](https://nodejs.org/en/) are installed.
-2. Clone the repository:
+📌 Features
 
-   ```bash
-   git clone https://github.com/selvaganapathycoder/Sebathi-AI-Saas-Platform.git
-   cd Sebathi-AI-Saas-Platform
-   ```
+✔ Built with Next.js + React + Tailwind CSS
+✔ Type-safe with TypeScript
+✔ Responsive design for mobile & desktop
+✔ Easy to customize for your own AI SaaS product
+✔ Clean folder structure for scalability
 
-3. Install dependencies:
-   ```bash
-   npm install
-   # or
-   pnpm install
-   ```
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
+🚀 Live Preview
 
-5. Visit **[http://localhost:3000](http://localhost:3000)** in your browser.
+👉 https://sebathi-v3.vercel.app
+
+See the live deployed version of the project. 
+GitHub
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🛠 Tech Stack
+
+| Technology       | Purpose                     |
+| ---------------- | --------------------------- |
+| **Next.js**      | React framework for SSR/SSG |
+| **React**        | UI components               |
+| **Tailwind CSS** | Utility-first styling       |
+| **TypeScript**   | Static typing               |
+| **Vercel**       | Deployment                  |
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📦 Installation
+
+Make sure you have Node.js and Git installed.
+# Clone repo
+git clone https://github.com/selvaganapathycoder/Sebathi-V3.git
+cd Sebathi-V3
+
+# Install dependencies
+npm install
+# or
+pnpm install
+
+# Run locally
+npm run dev
+
+# Open in browser
+http://localhost:3000
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📁 Project Structure
+├── app/                   # Next.js App Routes & Layouts
+├── components/            # UI Components
+├── constants/             # Static data/constants
+├── lib/                   # Helper functions
+├── public/                # Static assets
+├── styles/                # Global styles
+├── next.config.ts         # Next.js config
+├── tailwind.config.ts     # Tailwind config
+├── tsconfig.json          # TypeScript config
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+💡 Customization
+
+You can adapt this project for your own AI SaaS:
+
+✔ Update color theme in tailwind.config.ts
+✔ Replace hero & features content
+✔ Add authentication (e.g., NextAuth.js)
+✔ Connect to an AI API (OpenAI, HuggingFace, etc.)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📄 License
+
+Distributed under the MIT License.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
