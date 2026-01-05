@@ -1,35 +1,36 @@
+# Sebathi V3 — AI SaaS Platform
 
-🧠 Sebathi V3 — AI SaaS Platform
+![Sebathi Banner](./public/assets/sebathi-banner.png)
 
-🌐 Live Demo: https://sebathi-v3.vercel.app
- 
-GitHub
+> **I hired this project**
 
-Sebathi V3 is a modern, responsive UI/UX website built for showcasing an AI SaaS platform. It’s developed using Next.js, React, and Tailwind CSS with TypeScript — designed to be scalable, performant, and production-ready. 
-GitHub
+🌐 **Live Demo**: [https://sebathi-v3.vercel.app](https://sebathi-v3.vercel.app)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-📌 Features
+**Sebathi V3** is a modern, responsive UI/UX website built for showcasing an AI SaaS platform. It’s developed using Next.js, React, and Tailwind CSS with TypeScript — designed to be scalable, performant, and production-ready.
 
-✔ Built with Next.js + React + Tailwind CSS
-✔ Type-safe with TypeScript
-✔ Responsive design for mobile & desktop
-✔ Easy to customize for your own AI SaaS product
-✔ Clean folder structure for scalability
+---
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📌 Features
 
-🚀 Live Preview
+- ✔ Built with Next.js + React + Tailwind CSS
+- ✔ Type-safe with TypeScript
+- ✔ Responsive design for mobile & desktop
+- ✔ Easy to customize for your own AI SaaS product
+- ✔ Clean folder structure for scalability
 
-👉 https://sebathi-v3.vercel.app
+---
 
-See the live deployed version of the project. 
-GitHub
+## 🚀 Live Preview
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+👉 [https://sebathi-v3.vercel.app](https://sebathi-v3.vercel.app)
 
-🛠 Tech Stack
+See the live deployed version of the project.
+
+---
+
+## 🛠 Tech Stack
 
 | Technology       | Purpose                     |
 | ---------------- | --------------------------- |
@@ -39,29 +40,38 @@ GitHub
 | **TypeScript**   | Static typing               |
 | **Vercel**       | Deployment                  |
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-📦 Installation
+## 📦 Installation
 
 Make sure you have Node.js and Git installed.
-# Clone repo
-git clone https://github.com/selvaganapathycoder/Sebathi-V3.git
-cd Sebathi-V3
 
-# Install dependencies
-npm install
-# or
-pnpm install
+1. **Clone repo**
+   ```bash
+   git clone https://github.com/selvaganapathycoder/Sebathi-V3.git
+   cd Sebathi-V3
+   ```
 
-# Run locally
-npm run dev
+2. **Install dependencies**
+   ```bash
+   npm install
+   # or
+   pnpm install
+   ```
 
-# Open in browser
-http://localhost:3000
+3. **Run locally**
+   ```bash
+   npm run dev
+   ```
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4. **Open in browser**
+   [http://localhost:3000](http://localhost:3000)
 
-📁 Project Structure
+---
+
+## 📁 Project Structure
+
+```
 ├── app/                   # Next.js App Routes & Layouts
 ├── components/            # UI Components
 ├── constants/             # Static data/constants
@@ -71,22 +81,21 @@ http://localhost:3000
 ├── next.config.ts         # Next.js config
 ├── tailwind.config.ts     # Tailwind config
 ├── tsconfig.json          # TypeScript config
+```
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-💡 Customization
+## 💡 Customization
 
 You can adapt this project for your own AI SaaS:
 
-✔ Update color theme in tailwind.config.ts
-✔ Replace hero & features content
-✔ Add authentication (e.g., NextAuth.js)
-✔ Connect to an AI API (OpenAI, HuggingFace, etc.)
+- ✔ Update color theme in `tailwind.config.ts`
+- ✔ Replace hero & features content
+- ✔ Add authentication (e.g., NextAuth.js)
+- ✔ Connect to an AI API (OpenAI, HuggingFace, etc.)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-📄 License
+## 📄 License
 
 Distributed under the MIT License.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
