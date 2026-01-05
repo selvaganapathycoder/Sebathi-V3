@@ -1,6 +1,6 @@
 # Sebathi V3 — AI SaaS Platform
 
-![Sebathi Banner](./public/assets/sebathi-banner.png)
+![Sebathi Banner](public/assets/sebathi-banner.png)
 
 > **I hired this project**
 
