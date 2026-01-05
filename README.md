@@ -4,49 +4,64 @@
 
 > **I hired this project**
 
-🌐 **Live Demo**: [https://sebathi-v3.vercel.app](https://sebathi-v3.vercel.app)
+<div align="center">
+
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+[**Live Demo**](https://sebathi-v3.vercel.app) | [**Report Bug**](https://github.com/selvaganapathycoder/Sebathi-V3/issues) | [**Request Feature**](https://github.com/selvaganapathycoder/Sebathi-V3/issues)
+
+</div>
 
 ---
 
-**Sebathi V3** is a modern, responsive UI/UX website built for showcasing an AI SaaS platform. It’s developed using Next.js, React, and Tailwind CSS with TypeScript — designed to be scalable, performant, and production-ready.
+## 🚀 Overview
+
+**Sebathi V3** is a high-performance, visually stunning AI SaaS landing page designed to convert. Built with the latest tech stack including **Next.js 15**, **React 19**, and **Tailwind CSS**, it features a modern semantic architecture, smooth parallax effects, and a fully responsive bento-grid layout.
+
+This project demonstrates production-ready code quality, attention to UI/UX details, and scalable component architecture suitable for modern web applications.
 
 ---
 
-## 📌 Features
+## 💎 Features
 
-- ✔ Built with Next.js + React + Tailwind CSS
-- ✔ Type-safe with TypeScript
-- ✔ Responsive design for mobile & desktop
-- ✔ Easy to customize for your own AI SaaS product
-- ✔ Clean folder structure for scalability
-
----
-
-## 🚀 Live Preview
-
-👉 [https://sebathi-v3.vercel.app](https://sebathi-v3.vercel.app)
-
-See the live deployed version of the project.
+- **🎨 Modern UI/UX**: Sleek, dark-themed design with glassmorphism and vibrant gradients.
+- **⚡ High Performance**: Optimized for Core Web Vitals using Next.js App Router and Server Components.
+- **📱 Fully Responsive**: Flawless experience across all devices, from mobile phones to 4K desktops.
+- **🧩 Bento Grid Layout**: Trendy, information-dense layout style for showcasing features effectively.
+- **✨ Interactive Elements**: Smooth scroll parallax effects using `react-just-parallax` and micro-interactions.
+- **🛠️ Type-Safe**: Built with TypeScript for robust, maintainable, and error-free code.
+- **📂 Clean Architecture**: organized folder structure for easy scalability and maintenance.
 
 ---
 
 ## 🛠 Tech Stack
 
-| Technology       | Purpose                     |
-| ---------------- | --------------------------- |
-| **Next.js**      | React framework for SSR/SSG |
-| **React**        | UI components               |
-| **Tailwind CSS** | Utility-first styling       |
-| **TypeScript**   | Static typing               |
-| **Vercel**       | Deployment                  |
+| Category | Technology | Description |
+| :--- | :--- | :--- |
+| **Framework** | [Next.js](https://nextjs.org/) | The React Framework for the Web (App Router) |
+| **Library** | [React](https://react.dev/) | Server & Client Components |
+| **Styling** | [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework |
+| **Language** | [TypeScript](https://www.typescriptlang.org/) | Static typing for JavaScript |
+| **Animation** | [React Just Parallax](https://www.npmjs.com/package/react-just-parallax) | Mouse and scroll parallax effects |
+| **Deployment** | [Vercel](https://vercel.com/) | Zero-config deployment |
 
 ---
 
-## 📦 Installation
+## 📦 Getting Started
 
-Make sure you have Node.js and Git installed.
+Follow these steps to set up the project locally on your machine.
 
-1. **Clone repo**
+### Prerequisites
+
+- [Node.js](https://nodejs.org/en/) (v18 or higher)
+- [Git](https://git-scm.com/downloads)
+
+### Installation
+
+1. **Clone the repository**
    ```bash
    git clone https://github.com/selvaganapathycoder/Sebathi-V3.git
    cd Sebathi-V3
@@ -59,43 +74,41 @@ Make sure you have Node.js and Git installed.
    pnpm install
    ```
 
-3. **Run locally**
+3. **Start the development server**
    ```bash
    npm run dev
    ```
 
-4. **Open in browser**
-   [http://localhost:3000](http://localhost:3000)
+4. **Open the App**
+   Visit [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
 ---
 
 ## 📁 Project Structure
 
-```
-├── app/                   # Next.js App Routes & Layouts
-├── components/            # UI Components
-├── constants/             # Static data/constants
-├── lib/                   # Helper functions
-├── public/                # Static assets
-├── styles/                # Global styles
-├── next.config.ts         # Next.js config
-├── tailwind.config.ts     # Tailwind config
-├── tsconfig.json          # TypeScript config
+```bash
+├── app/                   # Next.js App Router & Layouts
+├── components/            # Reusable UI Components
+│   ├── design/            # Design-specific assets (circles, gradients)
+│   ├── layout/            # Layout components (Header, Footer)
+│   └── sections/          # Page sections (Hero, Features, Pricing)
+├── constants/             # Static configuration & data
+├── public/                # Static assets (images, icons)
+├── lib/                   # Utility functions & helpers
+└── styles/                # Global styles & font configuration
 ```
 
 ---
 
-## 💡 Customization
+## 👤 Author
 
-You can adapt this project for your own AI SaaS:
+**Selvaganapathy**
 
-- ✔ Update color theme in `tailwind.config.ts`
-- ✔ Replace hero & features content
-- ✔ Add authentication (e.g., NextAuth.js)
-- ✔ Connect to an AI API (OpenAI, HuggingFace, etc.)
+- GitHub: [@selvaganapathycoder](https://github.com/selvaganapathycoder)
+- LinkedIn: [Connect with me](https://www.linkedin.com/)
 
 ---
 
 ## 📄 License
 
-Distributed under the MIT License.
+Distributed under the MIT License. See `LICENSE` for more information.
