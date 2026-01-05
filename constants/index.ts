@@ -21,7 +21,7 @@ export const images = {
   loading: "/assets/loading.png",
   background: "/assets/background.jpg",
   curve: "/assets/hero/curve.png",
-  robot: "/assets/sebathi-banner.png",
+  robot: "/assets/hero/robot.jpg",
   heroBackground: "/assets/hero/hero-background.jpg",
   curve1: "/assets/collaboration/curve-1.svg",
   curve2: "/assets/collaboration/curve-2.svg",
