@@ -25,13 +25,6 @@ This project demonstrates production-ready code quality, attention to UI/UX deta
 
 ---
 
-## 📸 Screenshots
-
-![Sebathi V3 Hero Section](public/assets/sebathi-banner.png)
-
-*Modern AI SaaS landing page with stunning gradients, glassmorphism effects, and interactive UI elements*
-
----
 
 ## 💎 Features
 
