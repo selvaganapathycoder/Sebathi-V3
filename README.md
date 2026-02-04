@@ -1,6 +1,6 @@
 # Sebathi V3 — AI SaaS Platform
 
-![Sebathi Banner](assets/sebathi-banner.png)
+![Sebathi Banner](public/assets/sebathi-banner.png)
 
 > **I hired this project**
 
@@ -27,7 +27,7 @@ This project demonstrates production-ready code quality, attention to UI/UX deta
 
 ## 📸 Screenshots
 
-![Sebathi V3 Hero Section](assets/sebathi-banner.png)
+![Sebathi V3 Hero Section](public/assets/sebathi-banner.png)
 
 *Modern AI SaaS landing page with stunning gradients, glassmorphism effects, and interactive UI elements*
 
